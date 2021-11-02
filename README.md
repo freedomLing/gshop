@@ -1,6 +1,13 @@
 # gshop
 
-  这个项目是基于vue.js的外卖项目，该项目使用 vue-cli 脚手架初始化 Vue.js 项目，使用 vue-router 开发的单页面应用，利用axios与后端进行数据交互，使用 vuex 管理应用组件状态，项目中是引入better-scroll和vue-lazyload库实现页面滑动效果、图片惰加载。
+  这个项目是基于vue.js的外卖项目，使用了stylus预处理器。这个项目使用 vue-cli 脚手架初始化，使用 vue-router 开发的单页面应用，利用axios与后端进行数据交互，使用 vuex 管理应用组件状态，项目中是引入better-scroll和vue-lazyload库实现页面滑动效果、图片惰加载。
+  我截了几张图片
+  ![Uploading b04895d433346fbfc8c755f732a71cf.png…]()
+  ![44da8232a988cecdf9c9d67a22ce601](https://user-images.githubusercontent.com/92314621/139858333-8836e7a9-0bea-4e37-bb2a-1027381f76de.png)
+  ![976a457d161693260a02799c6def4ed](https://user-images.githubusercontent.com/92314621/139858662-eddb1cc5-cabc-41f4-bad9-c2c893edbee8.png)
+  ![d9026da88f49fdc0f212dfc1daf5967](https://user-images.githubusercontent.com/92314621/139858719-ab904038-43f5-4822-a14e-5f7f6714d9ed.png) 
+
+  
 
 ## 1. 项目开发准备
 
